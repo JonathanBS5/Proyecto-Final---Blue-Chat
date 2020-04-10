@@ -1,0 +1,28 @@
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\SoulDominican\Documents\Chat Servidor c+\Cliente\Cliente\obj\Debug\Cliente.pdb
